@@ -1,5 +1,4 @@
 央视频道,#genre#
-
 CCTV1,http://39.135.133.177:80/wh7f454c46tw1512734719_1361028486/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://39.135.133.143:80/wh7f454c46tw1630285899_1938674829/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://39.135.133.175:80/wh7f454c46tw1765349513_-682266484/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -36,7 +35,6 @@ CCTV14,http://lovegfs.top:8000/udp/239.120.2.103:5141
 CCTV15,http://lovegfs.top:8000/udp/239.120.2.104:5141
 CCTV16,http://lovegfs.top:8000/udp/239.120.2.105:5141
 CCTV17,http://lovegfs.top:8000/udp/239.120.2.106:5141
-
 CCTV1,http://lovegfs.top:8000/udp/239.120.1.120:8778
 CCTV2,http://lovegfs.top:8000/udp/239.120.1.223:9484
 CCTV3,http://lovegfs.top:8000/udp/239.120.1.88:9420
@@ -53,13 +51,11 @@ CCTV12,http://lovegfs.top:8000/udp/239.120.1.230:9502
 CCTV13,http://lovegfs.top:8000/udp/239.120.1.165:9048
 CCTV14,http://lovegfs.top:8000/udp/239.120.1.193:8284
 CCTV15,http://lovegfs.top:8000/udp/239.120.1.167:9060
-
 天元围棋频道,#genre#
 天元围棋,http://lovegfs.top:8000/udp/239.120.2.57:5141
 天元围棋,http://lovegfs.top:8000/udp/239.120.2.227:5141
 天元围棋,http://lovegfs.top:8000/udp/239.120.1.59:8320
 天元围棋,http://118.116.82.30:4022/udp/239.93.42.55:514
-
 卫视频道,#genre#
 湖南卫视,http://39.135.133.156:80/wh7f454c46tw3733683032_1977524239/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 浙江卫视,http://39.135.133.172:80/wh7f454c46tw3789524041_-556159129/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
@@ -80,3 +76,4 @@ CCTV15,http://lovegfs.top:8000/udp/239.120.1.167:9060
 深圳卫视,http://39.135.133.159:80/wh7f454c46tw786118487_-1668443235/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 重庆卫视,http://39.135.133.179:80/wh7f454c46tw822979033_2001883773/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 江苏卫视,http://39.135.133.142:80/wh7f454c46tw3059795776_-1356167721/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+江西卫视,http://39.135.133.181:80/wh7f454c46tw3465437182_1112828630/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
