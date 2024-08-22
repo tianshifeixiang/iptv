@@ -156,20 +156,20 @@ CCTV17,http://60.220.163.47:4000/rtp/226.0.2.170:9272
 江西卫视,http://113.251.226.247:7788/udp/235.254.198.29:1392
 江西都市频道,http://gzly.hkychina.com:6001/rtp/239.252.220.109:5140
 江西都市频道,http://58.17.48.228:808/hls/18/index.m3u8
-江西都市频道,http://59.53.166.27:8888/udp/239.252.220.109:5140
+江西都市频道,http://220.175.145.173:9000/udp/239.252.220.109:5140
 江西经济生活频道,http://gzly.hkychina.com:6001/udp/239.252.219.173:5140
-江西经济生活频道,http://59.53.166.27:8888/rtp/239.252.219.173:5140
+江西经济生活频道,http://220.175.145.173:9000/rtp/239.252.219.173:5140
 江西影视旅游,http://gzly.hkychina.com:6001/udp/239.252.220.101:5140
-江西影视旅游,http://59.53.166.27:8888/rtp/239.252.220.101:5140
+江西影视旅游,http://220.175.145.173:9000/rtp/239.252.220.101:5140
 江西公共农业,http://gzly.hkychina.com:6001/udp/239.252.220.102:5140
-江西公共农业,http://59.53.166.27:8888/rtp/239.252.220.102:5140
+江西公共农业,http://220.175.145.173:9000/rtp/239.252.220.102:5140
 江西少儿频道,http://gzly.hkychina.com:6001/udp/239.252.220.111:5140
 江西少儿频道,http://gzly.hkychina.com:6001/udp/239.252.219.113:5140
-江西少儿频道,http://59.53.166.27:8888/rtp/239.252.220.111:5140
+江西少儿频道,http://220.175.145.173:9000/rtp/239.252.220.111:5140
 江西新闻频道,http://gzly.hkychina.com:6001/udp/239.252.220.100:5140
-江西新闻频道,http://59.53.166.27:8888/rtp/239.252.220.100:5140
+江西新闻频道,http://220.175.145.173:9000/rtp/239.252.220.100:5140
 江西教育频道,http://gzly.hkychina.com:6001/udp/239.252.219.115:5140
-江西教育频道,http://59.53.166.27:8888/rtp/239.252.219.115:5140
+江西教育频道,http://220.175.145.173:9000/rtp/239.252.219.115:5140
 
 卫视频道,#genre#
 湖南卫视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8
@@ -240,9 +240,11 @@ CCTV17,http://60.220.163.47:4000/rtp/226.0.2.170:9272
 兵团卫视,http://124.128.73.58:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 
 香港频道,#genre#
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8?key=eyJ0b2tlbiI6ImtJYW9tcXdpUjRqWGZZRVZ6dHlCRUFCMmlCZ1J3Tk9sIiwidXNlciI6IjVmMTIxYmY5ODRhY2U0MWVmMzNjNmM0MDk1YzY3ZTcxIiwibWFjIjoiZjM6MjA6MDA6ZTc6Yzc6NzciLCJhbmRyb2lkaWQiOiIzOGQxNzI3ZDBjNDFlZTRmIn0=
-凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8?key=eyJ0b2tlbiI6ImtJYW9tcXdpUjRqWGZZRVZ6dHlCRUFCMmlCZ1J3Tk9sIiwidXNlciI6IjVmMTIxYmY5ODRhY2U0MWVmMzNjNmM0MDk1YzY3ZTcxIiwibWFjIjoiZjM6MjA6MDA6ZTc6Yzc6NzciLCJhbmRyb2lkaWQiOiIzOGQxNzI3ZDBjNDFlZTRmIn0=
-凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8?key=eyJ0b2tlbiI6IkhsVDdIYWZBVkNtc2g3b0lKMkUxMldsbW9NTzRZa3pTIiwidXNlciI6IjVmMTIxYmY5ODRhY2U0MWVmMzNjNmM0MDk1YzY3ZTcxIiwibWFjIjoiZjM6MjA6MDA6ZTc6Yzc6NzciLCJhbmRyb2lkaWQiOiIzOGQxNzI3ZDBjNDFlZTRmIiwiMCI6IiJ9
+TVB,http://120.84.121.142:808/hls/24/index.m3u8
+TVB翡翠台,http://120.84.121.142:808/hls/25/index.m3u8
+TVB明珠台,http://120.84.121.142:808/hls/26/index.m3u8
+凤凰资讯,http://120.84.121.142:808/hls/28/index.m3u8
+凤凰中文,http://120.84.121.142:808/hls/29/index.m3u8
 
 财经频道,#genre#
 东方财经,http://lovegfs.top:8000/udp/239.120.1.55:8304
