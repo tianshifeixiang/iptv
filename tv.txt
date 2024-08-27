@@ -393,18 +393,22 @@ CCTV17,http://121.233.165.3:5678/rtp/239.49.8.52:9810$江苏电信
 
 香港频道,#genre#
 
-TVB,http://120.84.121.142:808/hls/24/index.m3u8
-TVB翡翠台,http://120.84.121.142:808/hls/25/index.m3u8
+TVB PLUS,http://60.246.171.122:8892/bysid/82
+TVB PLUS,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
+TVB PLUS,http://nz171l122.bb60246.ctm.net:8892/bysid/82.m3u8
+TVB翡翠台,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
+TVB翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
+TVB翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 TVB明珠台,http://120.84.121.142:808/hls/26/index.m3u8
 凤凰资讯,http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-凤凰资讯,http://120.84.121.142:808/hls/28/index.m3u8
-凤凰资讯,http://146.56.153.245:20121/bysid/257
+凤凰资讯,https://test.zapi.us.kg/?id=phtv-info
 凤凰中文,http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰中文,http://120.84.121.142:808/hls/29/index.m3u8
-凤凰中文,http://118.112.148.228:4022/udp/239.93.1.9:2192
+凤凰中文,http://182.139.177.241:6066/udp/239.93.1.9:2192
+凤凰中文,https://test.zapi.us.kg/?id=phtv-cn
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc
 凤凰香港,http://60.246.171.122:8892/bysid/85
 凤凰香港,http://nz171l122.bb60246.ctm.net:8892/bysid/85.m3u8
+凤凰香港,https://test.zapi.us.kg/?id=phtv-hk
 
 湾湾频道,#genre#
 
@@ -414,6 +418,7 @@ TVB明珠台,http://120.84.121.142:808/hls/26/index.m3u8
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,http://37.27.111.214:8080/live/8/hls.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 台视新闻,https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
