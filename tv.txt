@@ -404,7 +404,7 @@ CCTV17,http://58.41.27.144:18888/udp/239.45.3.52:5140$上海电信
 江西教育频道,https://stream1.freetv.fun/b61de3004b73c971031b3046d488451cec3a3007303587ea3b23ce48f9f72913.m3u8
 江西教育频道,https://stream1.freetv.fun/5332c3eb6b61dfc6fe26886e3ce2fe3ce47e34f6b9c88799097de98a15c9490f.m3u8
 江西教育频道,https://stream1.freetv.fun/8662a824b5518a0b00dcd92190426a71263e02c5c29b751b06260698bc1fdaa2.ctv
-江西移动,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8
+江西移动,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8
 江西陶瓷,http://58.144.154.93/yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8
 
 卫视频道,#genre#
