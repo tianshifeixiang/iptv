@@ -366,6 +366,7 @@ CCTV17,http://27.10.224.44:8005/udp/225.0.4.179:7980$重庆联通
 江西都市频道,http://58.17.48.228:808/hls/18/index.m3u8
 江西都市频道,https://stream1.freetv.fun/5b63311f17580c1b7c6ad805ac4f5f35d0be44f32a80f60ac60821f8ff78354d.m3u8
 江西都市频道,https://stream1.freetv.fun/6934d54a550b33f2dc6a9b04d3dd33fcbe8654fbc8a50207debe101f4088932d.ctv
+江西都市频道,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv2.m3u8?source=pc&t=173028416295392&token=f23abb6da8c5c72991975fa9318f45c4
 江西经济生活,http://115.150.112.61:4022/rtp/239.252.219.173:5140$江西电信
 江西经济生活,http://58.17.48.228:808/hls/19/index.m3u8
 江西经济生活,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv3_hd.m3u8?source=pc&t=172991712856315&token=61c9f476b4a47e9f58aea542cc2b0524
